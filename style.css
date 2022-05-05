@@ -1,0 +1,133 @@
+p{
+    color: rgb(238, 255, 0);
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: rgb(19, 128, 0);
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result2{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result3{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result4{
+margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+}
+.test_image_and_result5{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result6{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result7{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result8{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(189, 10, 10);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(128, 128, 128);
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1{
+    color: white;
+}
+.white2{
+    color: white;
+}
+.white3{
+    color: white;
+}
+.white4{
+    color: white;
+}
+.white5{
+    color: white
+}
+.white6{
+    color: white;
+}
+.white7{
+    color: white;
+}
+.white8{
+    color: white;
+}
+.white9{
+    color: white;
+}
+span{
+    color: red;
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
